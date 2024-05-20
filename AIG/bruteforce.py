@@ -1,6 +1,6 @@
 """
 Forage AIG Cybersecurity Program
-Bruteforce starter template
+Bruteforce 
 """
 
 from zipfile import ZipFile
