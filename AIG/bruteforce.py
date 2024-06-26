@@ -1,5 +1,4 @@
 """
-Forage AIG Cybersecurity Program
 Bruteforce 
 """
 
